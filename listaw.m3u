@@ -14,6 +14,8 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 https://www.amixtv.com:8081/mntvh/index.m3u8
 #EXTINF:-1 tvg-id="MayaTV.hn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/512px-Maya_TV_logo.png" group-title="Honduras2",Maya TV
 https://media.streambrothers.com:19360/8356/8356.m3u8
+#EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="Honduras2",Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVHN" tvg-logo="https://es.wikipedia.org/wiki/VTV_%28Honduras%29#/media/Archivo:VTV_HN_logo_2019.png" group-title="Honduras2",VTVHN
 https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras2",TSi
